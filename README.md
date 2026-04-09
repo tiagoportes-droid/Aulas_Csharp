@@ -25,7 +25,7 @@ O repositório está dividido por categorias de aprendizado, abrangendo desde fu
 
 ## 📈 Evolução e Contato
 
-> "O sucesso é a soma de pequenos esforços repetidos dia após dia."
+> "A falha é apenas um passo pra o sucesso."
 
 **Nome:** Tiago Ferreira da Luz Portes  
 **Objetivo:** Desenvolvedor Backend / C#
