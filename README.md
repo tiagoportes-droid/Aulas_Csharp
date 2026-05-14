@@ -1,34 +1,51 @@
-# 📂 Meus Trabalhos e Exercícios
+# 📂 My Projects and Exercises
 
-Este repositório foi criado para centralizar e organizar todos os meus projetos, exercícios acadêmicos e estudos independentes de programação. O objetivo é registrar minha evolução técnica e consolidar conceitos de arquitetura e lógica.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-* **Linguagem Principal:** C# (C-Sharp), Py (Python)
-* **Plataforma:** .NET SDK
-* **IDE/Editor:** Visual Studio Code / Visual Studio
-* **Versionamento:** Git & GitHub
+This repository was created to organize my programming projects, academic exercises, and personal studies. The goal is to improve my logical thinking, strengthen programming fundamentals, and document my evolution as a developer.
 
 ---
 
-## 🚀 O que você vai encontrar aqui?
+## 🛠️ Technologies & Tools
 
-O repositório está dividido por categorias de aprendizado, abrangendo desde fundamentos até desafios mais complexos:
+- **Languages:** C# (C-Sharp), Python
+- **Platform:** .NET SDK
+- **IDE / Editor:** Visual Studio Code, Visual Studio
+- **Version Control:** Git & GitHub
 
-* **🔢 Cálculos Matemáticos:** Implementações otimizadas, como a Sequência de Fibonacci utilizando `BigInteger`.
-* **🧠 Lógica de Programação:** Exercícios focados em estruturas condicionais, laços de repetição e manipulação de variáveis.
-* **💻 Projetos de Console:** Mini-aplicativos práticos para fixação de conceitos e POO.
+---
+
+## 🚀 Repository Content
+
+This repository contains exercises and small projects focused on learning and practicing programming concepts.
+
+### 🔢 Mathematical Calculations
+- Fibonacci Sequence using `BigInteger`
+- Basic mathematical algorithms
+- Number manipulation exercises
+
+### 🧠 Programming Logic
+- Conditional structures
+- Loops and repetitions
+- Variable manipulation
+- Arrays and basic data structures
+
+### 💻 Console Projects
+- Simple console applications
+- Logic-based mini projects
+- Object-Oriented Programming (OOP) practice
 
 ---
 
-## 📈 Evolução e Contato
+## 📈 Goals
 
-> "A falha é apenas um passo pra o sucesso."
+> “Failure is only another step toward success.”
 
-**Nome:** Tiago Ferreira da Luz Portes  
-**Objetivo:** Desenvolvedor Backend / C#
+### 👨‍💻 Developer Information
+- **Name:** Tiago Ferreira da Luz Portes
+- **Focus Area:** Backend Development / C#
+- **Current Goal:** Improve programming logic and backend development skills.
 
 ---
-*Repositório em constante atualização conforme avanço nos meus estudos!*
+
+## 📌 Repository Status
+
+This repository is constantly being updated as I continue learning and building new projects.
